@@ -24,3 +24,7 @@ main{
 hr{
     border-color: #cf8a05;
 }
+
+footer p{
+    font-size: 12px;
+}
